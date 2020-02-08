@@ -27,4 +27,8 @@ Para que ya no les aparezca esa advertencia molesta.
 /--------------------------------------/
 
 
+git reset --mixed 11111111    "de esta manera nos movemos al commit anterior, donde 11111111 es el commit"
 
+asdkljasd
+
+adsasdasdasd
