@@ -8,3 +8,5 @@ git add . "sube los archivos al escenario para ser subidos"
 git commit -m ""  "entre las comillas el titulo del commit"
 
 git checkout -- . "reconstruye todo mi sitio a la version del ultimo commit"
+
+change
