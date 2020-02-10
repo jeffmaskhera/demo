@@ -32,3 +32,9 @@ git reset --mixed 11111111    "de esta manera nos movemos al commit anterior, do
 asdkljasd
 
 adsasdasdasd
+
+
+cambiar el nombre de mi git "no el usuario si no el nickname por asi decirlo"
+
+git config --global user.name "jefreysanchez"
+
