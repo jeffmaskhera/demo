@@ -38,4 +38,12 @@ cambiar el nombre de mi git "no el usuario si no el nickname por asi decirlo"
 
 git config --global user.name "jefreysanchez"
 
-prueba git stash
+prueba git 
+el stash se hace sin hacer merge.. simplemente guarda los estados trabajados en una memoria alterna
+devuelve al anterior despliegas y luego si quieres regresas con unstash
+
+wip in stash... work in progress
+git stash pop recupera el trabajo
+
+
+fork toma repositorio original y lo sube a un usuario personal
